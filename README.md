@@ -43,3 +43,5 @@ description: returns array of upcoming titles according to filters / sorting que
 ## Authentication
 
 ## Error Handling
+
+## Usage Limits and Best Practices
